@@ -15,3 +15,9 @@ class name{
         System.out.println("My name is Hasitha"); 
    }
 }
+
+class Welcome{
+     public static void main(String[] args) {
+        System.out.println("Welcome! Hacktoberfest 2021"); 
+   }
+}
