@@ -21,3 +21,9 @@ class Welcome{
         System.out.println("Welcome! Hacktoberfest 2021"); 
    }
 }
+
+class Hacktoberfest{
+     public static void main(String[] args) {
+        System.out.println("This is Hacktoberfest 2021"); 
+   }
+}
