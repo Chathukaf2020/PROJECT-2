@@ -28,3 +28,9 @@ class Hacktoberfest{
    }
 }
 city
+
+class Hacktoberfest21{
+     public static void main(String[] args) {
+        System.out.println("Hacktoberfest 2021"); 
+   }
+}
